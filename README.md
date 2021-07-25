@@ -4,11 +4,11 @@
 
 🏢 I’m currently working at [@Totvs](https://github.com/totvs).
 
-🛰️: API with **NodeJs**, **Serverless** <br/>
+🛰️ API with **NodeJs**, **Serverless** <br/>
 
 💻 Web front-end development with **Angular**, **ReactJs** <br/>
 
-💽: Databases: **Mongo**, **Firebase**, **MySQL** <br/>
+💽 Databases: **Mongo**, **Firebase**, **MySQL** <br/>
 
 📚 I have also learning **React Native**. I like project architecture, writing clean code and applying good practices.
 
