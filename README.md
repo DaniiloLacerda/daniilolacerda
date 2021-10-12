@@ -2,7 +2,7 @@
 
 **I'm Danilo Lacerda**. I'm a JS developer 💻
 
-🏢 I’m currently working at [@Totvs](https://github.com/totvs).
+🏢 I’m currently working at [@ZAK](https://www.zak.app/).
 
 🛰️ API with **NodeJs**, **Serverless** <br/>
 
