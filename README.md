@@ -41,7 +41,7 @@ Technologies that i known:
 &nbsp;
 <img src="https://gitlab.com/uploads/-/system/project/avatar/15112583/serverless_framework.png" height="35px" />
 &nbsp;
-<img src="https://www.globalmind.com.br/wp-content/uploads/2021/04/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" height="35px" />
+<img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" height="35px" />
 &nbsp;
 </p>
 
