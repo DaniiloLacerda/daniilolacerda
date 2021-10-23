@@ -2,8 +2,6 @@
 
 **I'm Danilo Lacerda**. I'm a JS developer 💻
 
-🏢 I’m currently working at [@ZAK](https://www.zak.app/).
-
 🛰️ API with **NodeJs**, **Serverless** <br/>
 
 💻 Web front-end development with **Angular**, **ReactJs** <br/>
