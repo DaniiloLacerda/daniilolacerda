@@ -2,11 +2,11 @@
 
 **I'm Danilo Lacerda**. I'm a JS developer 💻
 
-🛰️ API with **NodeJs**, **Serverless** <br/>
+🛰️ API with **Express**, **Serverless** <br/>
 
-💻 Web front-end development with **Angular**, **ReactJs** <br/>
+💻 Web front-end development with **Angular**, **React**, **React Native** <br/>
 
-💽 Databases: **Mongo**, **Firebase**, **MySQL** <br/>
+💽 Databases: **Mongo**, **Firebase**, **MySQL**, **PostgreSQL** <br/>
 
 📚 I have also learning **React Native**. I like project architecture, writing clean code and applying good practices.
 
