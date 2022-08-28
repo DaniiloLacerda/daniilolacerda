@@ -25,7 +25,9 @@ Technologies that i known:
 &nbsp;  
 <img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" height="35px"/>
 &nbsp;  
-<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
+<img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" height="35px"/> 
+&nbsp;
+<img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" height="35px"/> 
 &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
 &nbsp;
