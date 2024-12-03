@@ -10,8 +10,6 @@
 
 📚 I have also learning **React Native**. I like project architecture, writing clean code and applying good practices.
 
-🎮 I'm a gamer and my favorite game is Legue of legends.
-
 ---
 
 Technologies that i known:
