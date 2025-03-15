@@ -1,16 +1,6 @@
 ### Hello 👋
 
-**I'm Danilo Lacerda**. I'm a JS developer 💻
-
-🛰️ API with **Express**, **Serverless** <br/>
-
-💻 Web front-end development with **Angular**, **React**, **React Native** <br/>
-
-💽 Databases: **Mongo**, **Firebase**, **MySQL**, **PostgreSQL** <br/>
-
-📚 I have also learning **React Native**. I like project architecture, writing clean code and applying good practices.
-
----
+**I'm Danilo Lacerda**. I'm a Full Stack JS developer 💻
 
 Technologies that i known:
 
@@ -21,11 +11,11 @@ Technologies that i known:
 &nbsp;
 <img src="https://www.svgrepo.com/show/353396/angular-icon.svg" height="35px"/>
 &nbsp;  
-<img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" height="35px"/>
+<img src="https://www.svgrepo.com/show/452092/react.svg" height="35px"/>
 &nbsp;  
 <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" height="35px"/> 
 &nbsp;
-<img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" height="35px"/> 
+<img src="https://www.svgrepo.com/show/354112/nextjs.svg" height="35px"/> 
 &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
 &nbsp;
