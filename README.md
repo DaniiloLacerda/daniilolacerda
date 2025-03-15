@@ -27,13 +27,13 @@ Technologies that i known:
 &nbsp;
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
 &nbsp;
-<img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" height="35px" />   
+<img src="https://img.icons8.com/?size=100&id=bp24DwGXJDyT&format=png&color=000000" height="35px" />   
 &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Logo_jasmine.svg/1200px-Logo_jasmine.svg.png" height="35px" />   
 &nbsp;
 <img src="https://gitlab.com/uploads/-/system/project/avatar/15112583/serverless_framework.png" height="35px" />
 &nbsp;
-<img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" height="35px" />
+<img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" height="35px" />
 &nbsp;
 </p>
 
